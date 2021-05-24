@@ -12,7 +12,7 @@
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
-- 🌱 I’m currently learning <strong>MERN Stack</strong>.
+- 🌱 I’m currently learning <strong>MERN Stack</strong>
 - 🔍 I’m looking to collaborate on <strong> Web Development Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, JavaScript, Graphic Designing (Canva),Content Writing,PHP</strong>
 - ⚡ Fun fact: I can talk 24/7 about chess.
