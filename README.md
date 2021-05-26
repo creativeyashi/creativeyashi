@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/yashikagupta082@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yashikagupta082@gmail.com">     <a href="https://www.linkedin.com/in/yashika20007/"><img src="https://img.shields.io/badge/Yashika Gupta-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 ### Here are some ideas to help you get started:
-
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
+.
+- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions.</strong>
 - 🌱 I’m currently learning <strong>MERN Stack</strong>
 - 🔍 I’m looking to collaborate on <strong> Web Development Projects.</strong>
 - 💬 Ask me about <strong>Data Structures in C++, JavaScript, Graphic Designing (Canva),Content Writing,PHP</strong>
