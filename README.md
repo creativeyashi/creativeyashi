@@ -5,7 +5,7 @@
  <img src="https://profile-counter.glitch.me/creativeyashi/count.svg" />
 
 
-### How to reach me: <strong>(Click the badge to view my profiles)</strong>
+### How to reach me: <strong>(Click the badge to view my profiles.)</strong>
 
 <img src="https://img.shields.io/badge/yashikagupta082@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yashikagupta082@gmail.com">     <a href="https://www.linkedin.com/in/yashika20007/"><img src="https://img.shields.io/badge/Yashika Gupta-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
