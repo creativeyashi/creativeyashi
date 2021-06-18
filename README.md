@@ -2,7 +2,7 @@
 ![Name](Maskedname1.png)
 
 ### Profile Views :<br>
- <img src="https://profile-counter.glitch.me/creativeyashi/count.svg" />
+ <img src="https://profile-counter.glitch.me/creativeyashi/count.svg"/>
 
 ### How to reach me : <strong>(Click the badge to view my profiles)</strong>
 
